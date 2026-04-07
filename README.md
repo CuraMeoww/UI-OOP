@@ -38,9 +38,12 @@ Demo được xây dựng nhằm mô phỏng trải nghiệm thực tế tại m
 ---
 
 ## ❤️ Lời cảm ơn
-Chúng xin gửi lời cảm ơn chân thành đến thầy Hoàng Mạnh Cường đã hướng dẫn để dự án hoàn thiện đúng tiến độ.
+Chúng xin gửi lời cảm ơn chân thành đến thầy **Hoàng Mạnh Cường** đã hướng dẫn để dự án hoàn thiện đúng tiến độ.
 
 Thực hiện bởi: **Trịnh Tuấn Linh - Hà Minh Châu**
+
 Mã sinh viên: **B24DCGA085 - B24DCGA017**
+
 Mã lớp hành chính: **D24CQGA01-B**
+
 Trường: Học viện Công nghệ Bưu chính Viễn thông.
