@@ -38,7 +38,7 @@ Demo được xây dựng nhằm mô phỏng trải nghiệm thực tế tại m
 ---
 
 ## ❤️ Lời cảm ơn
-Chúng xin gửi lời cảm ơn chân thành đến thầy **Hoàng Mạnh Cường** đã hướng dẫn để dự án hoàn thiện đúng tiến độ.
+Chúng xin gửi lời cảm ơn chân thành đến thầy **Hoàng Mạnh Cường** đã hướng dẫn để demo hoàn thiện đúng tiến độ.
 
 Thực hiện bởi: **Trịnh Tuấn Linh - Hà Minh Châu**
 
