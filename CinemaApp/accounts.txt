@@ -1,0 +1,7 @@
+admin,123,admin
+linh,abc,customer
+chau,456,customer
+my,789,customer
+trang,0901,customer
+
+son,191,customer

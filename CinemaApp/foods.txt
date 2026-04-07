@@ -1,0 +1,13 @@
+P01,Bỏng ngô Vị Truyền Thống,55000,99
+P02,Bỏng ngô Vị Phô Mai,65000,82
+P03,Bỏng ngô Vị Caramel,70000,59
+P04,Bỏng ngô Vị Trà Xanh (Matcha),75000,40
+P05,Bỏng ngô 2 Vị (Mix),85000,30
+C01,Combo Đơn (Solo),99000,50
+C02,Combo Đôi (Couple),129000,70
+C03,Combo Gia Đình (Family),250000,30
+C04,Combo Phim (Limited),199000,15
+D01,Nước ngọt có gas,35000,200
+D02,Nước suối,20000,150
+S01,Xúc xích nướng,45000,50
+S02,Khoai tây lắc phô mai,50000,40
